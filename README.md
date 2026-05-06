@@ -21,6 +21,8 @@ Receive feedback for success or failure actions
 
 ## 📂 Project Structure
  - main.py
+ - ui.py
+ - auth.py
  - .gitignore
  - README.md
  
